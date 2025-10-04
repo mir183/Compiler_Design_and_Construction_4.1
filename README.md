@@ -46,6 +46,6 @@ Postfix: a b c d - * e / +
 
 ## Get in Touch
 
-If you have any questions or need further clarification about the materials, you can reach me by email -> [your-email@example.com]
+If you have any questions or need further clarification about the materials, you can reach me by email -> ahmedemon183@gmail.com
 
 **Happy coding !**
