@@ -1,0 +1,42 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Compiler-generated files
+lexer
+analyzer
+parser
+optimizer
+error-handler
+symbol-table
+
+# IDE files
+.vscode/
+.vs/
+*.vcxproj*
+*.sln
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Debug files
+*.pdb
+*.ilk
+
+# Output directories
+bin/
+build/
+debug/
+release/
+
+# Log files
+*.log
